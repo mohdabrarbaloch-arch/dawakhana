@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
+npm-debug.log*
+coverage/
+dist/
+.vercel/
+*.log
